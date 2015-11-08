@@ -8,8 +8,3 @@ Yup. Some more text.
 
 ### A heading 3
 With even more text under it. Crazy.
-
-#### Even more
-Some m ore stuff I guess.
-
-Works for me.
